@@ -13,7 +13,6 @@
   "license": "MIT",
   "main": [
     "dist/leaflet.routing.icons.png",
-    "dist/leaflet-routing-machine.css",
     "dist/leaflet.routing.icons.svg",
     "dist/leaflet-routing-machine.js",
     "dist/routing-icon.png"
@@ -25,7 +24,6 @@
     "test",
     "tests",
     "src",
-    "css",
     "Gruntfile.js",
     "package.json",
     "build.sh"
